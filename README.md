@@ -2,13 +2,13 @@ Interactive 2D Electric Field & Potential Simulator
 <p>
 This project is an interactive simulation that visualizes the electric field and electric potential created by three point charges arranged in a 2D space.
 </p>
-What is this about?
 <p>
+What is this about?
+</p>
 In physics, electric charges create forces and influence the space around them. Two important concepts to describe this are:
 Electric Field: A vector field showing the direction and strength of force a positive test charge would feel at any point in space.
 Electric Potential: A scalar field representing the potential energy a charge would have at any point.
 This simulator helps you see these concepts by showing how three adjustable point charges affect the electric field and potential in a 2D plane.
-</p>
 <p>
 What you see and interact with
   </p>
@@ -46,6 +46,7 @@ pip install numpy matplotlib ipywidgets
 Open the script or notebook and run the code.
 Use the sliders to explore.
 </p>
+
 
 
 
