@@ -12,7 +12,6 @@ This simulator helps you see these concepts by showing how three adjustable poin
 <p>
 What you see and interact with
 </p>
-<p>
 Visualizations Electric Field Intensity Plot (Left):
 Shows the flow lines of the electric field using arrows, combined with a color map that indicates the strength (intensity) of the field at every point.
 Lines point where a positive charge would be pushed or pulled.
@@ -20,9 +19,9 @@ Color shows how strong the field is (hot colors mean stronger).
 Electric Potential Plot (Right):
 Displays equipotential lines (lines of equal electric potential) colored from blue to red.
 This shows how the potential energy varies in space around the charges.
-</p>
-Interactive Sliders
 <p>
+Interactive Sliders
+</p>
 You can move sliders to change the position (X and Y) and magnitude (positive or negative value) of each of the three point charges.
 Position sliders: Move each charge anywhere within the square area displayed (-1 to 1 on both axes).
 Magnitude sliders: Change the strength and polarity of each charge (positive means a positive charge, negative means negative).
@@ -47,6 +46,7 @@ pip install numpy matplotlib ipywidgets
 Open the script or notebook and run the code.
 Use the sliders to explore.
 </p>
+
 
 
 
